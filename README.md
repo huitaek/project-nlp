@@ -13,12 +13,13 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
   https://github.com/e9t/nsmc/
 
 ## <b>사용 툴 / 라이브러리</b> (추후 정리)
+|제목|내용|설명|
 |---|---|---|
-|pandas|'|'|
-|numpy|'|'|
-|konlpy|'|'|
-|pykospacing|'|'|
-|hanspell|'|'|
+|pandas|ddd|ddd|
+|numpy|ddd|ddd|
+|konlpy|ddd|ddd|
+|pykospacing|ddd|ddd|
+|hanspell|ddd|ddd|
   
   
   
