@@ -20,7 +20,7 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
 ||konlpy|ddd|
 ||pykospacing|ddd|
 ||hanspell|ddd|
-|툴|Tableau|ddd|
+|Tool|Tableau|ddd|
   
   
   
