@@ -21,6 +21,15 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
 ||pykospacing|ddd|
 ||hanspell|ddd|
 |Tool|Tableau|ddd|
+
+## <b>파일 설명</b>
++ /data
+  - ratings_test.txt
+  - ratings_train.txt
+  - rating_train_spaced.csv
+  - okt_x_train.csv
+  - stopwords.csv
++ preprocessing.ipynb
   
   
   
