@@ -12,6 +12,7 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
   1. 웹크롤링을 통해 테스트데이터셋 준비
      - 네이버 리뷰
      - 다음 리뷰
+        - webcrawling.ipynb 
 
   2. 토큰화 방법 정하기
      - kkma
@@ -19,31 +20,39 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
      - Hannanum
      - Okt
      - MeCab
+       - preprocessing.ipynb 
+       - mecab사용.ipynb
 
   3. LSTM 알고리즘 적용
+     - nlp.ipynb
+     
   4. GRU 알고리즘 적용
+     - GRU 작업중.ipynb 
+     
   5. 감정분석
+     - 
   6. 시각화
-  
+     - 
+
 ## <b>활용 데이터</b>
   https://github.com/e9t/nsmc/
 
 ## <b>사용 툴 / 라이브러리</b> (추후 정리)
 |구분|내용|설명|
 |---|---|---|
-||pandas|.|
-||numpy|.|
-||konlpy|.|
-||pykospacing|.|
-||hanspell|.|
-||tensorflow|.|
-||nltk|.|
-||collections|.|
-||wordcloud|.|
-||matplotlib|.|
-||os|.|
-||tqdm|.|
-||eunjeon|토큰화|
+|Lib|pandas|.|
+|Lib|numpy|.|
+|Lib|konlpy|.|
+|Lib|pykospacing|.|
+|Lib|hanspell|.|
+|Lib|tensorflow|.|
+|Lib|nltk|.|
+|Lib|collections|.|
+|Lib|wordcloud|.|
+|Lib|matplotlib|.|
+|Lib|os|.|
+|Lib|tqdm|.|
+|Lib|eunjeon|토큰화|
 |Tool|Tableau|.|
 
 ## <b>파일 설명</b>
@@ -55,7 +64,7 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
   - stopwords.csv
 + preprocessing.ipynb
  
-## <b>알고리즘 적용</b>
+## <b>알고리즘</b>
 + LSTM
   - nlp.ipynb
 + GRU
