@@ -56,8 +56,10 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
 + preprocessing.ipynb
  
 ## <b>알고리즘 적용</b>
-+ nlp.ipynb (LSTM)
-+ GRU 작업중.ipynb (GRU)
++ LSTM
+  - nlp.ipynb
++ GRU
+  - GRU 작업중.ipynb 
   
 <b></b>
 <b><span style="color:red"></span>
