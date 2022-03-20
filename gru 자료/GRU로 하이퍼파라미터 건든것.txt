@@ -1,0 +1,45 @@
+현재 파라미터 건든것 
+drop out ---> 0.2 
+batch size --->   256 =>128
+layer ---->  32 , 중간 GRU(64)는 건들지 않음,  16
+
+
+
+drop out --->    0.4  
+batch size ---> 128
+layer ---->  32  , 중간 GRU(64)는 건들지 않음,  16
+
+
+
+
+drop out --->  0.4 
+batch size --->  128
+layer ---->  32 =>16 , 중간 GRU(64)는 건들지 않음,  16=>8
+
+
+
+drop out --->   0.5
+batch size --->   128
+layer ---->  16 , 중간 GRU(64)는 건들지 않음,  8
+
+
+drop out --->   0.5
+batch size --->   128
+layer ---->  8 , 중간 GRU(64)는 건들지 않음,  4
+
+
+drop out --->   0.5
+batch size --->   64
+layer ---->  8 , 중간 GRU(64)는 건들지 않음,  4
+
+
+drop out --->   0.5
+batch size --->   128
+layer ---->  32 , 중간 GRU(64)는 건들지 않음,  16    =======> 최종 하이퍼파라미터
+
+
+
+ModelCheckpoint로 제일 조건이 맞을 때 저장
+otk와 mecap 양쪽 사용
+softsign, tanh
+epochs 10회씩
