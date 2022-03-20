@@ -72,7 +72,10 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
 + LSTM
   - nlp.ipynb
 + GRU
-  - GRU 작업중.ipynb 
+  - GRU 작업중.ipynb
++ CNN 알고리즘 적용
+  - CNN(+다음).ipynb
+  - CNN.ipynb 
   
 <b></b>
 <b><span style="color:red"></span>
