@@ -30,8 +30,9 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
   - okt_x_train.csv
   - stopwords.csv
 + preprocessing.ipynb
-  
-  
+ 
+ ㅇㅇ
+
   
 <b></b>
 <b><span style="color:red"></span>
