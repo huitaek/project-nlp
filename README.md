@@ -31,8 +31,9 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
   - stopwords.csv
 + preprocessing.ipynb
  
- ㅇㅇ
-
+## <b>적용 알고리즘</b>
++ LSTM
++ GRU
   
 <b></b>
 <b><span style="color:red"></span>
