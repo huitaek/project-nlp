@@ -27,10 +27,13 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
      - nlp.ipynb
      
   4. GRU 알고리즘 적용
-     - GRU 작업중.ipynb 
+     - GRU mecab.ipynb 
+     - GRU OKT.ipynb
      
-  5. 감정분석
-     - 
+  5. CNN 알고리즘 적용
+     - CNN(+다음).ipynb
+     - CNN.ipynb
+
   6. 시각화
      - 
 
@@ -50,6 +53,7 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
 |Lib|collections|.|
 |Lib|wordcloud|.|
 |Lib|matplotlib|.|
+|Lib|seaborn|.|
 |Lib|os|.|
 |Lib|tqdm|.|
 |Lib|eunjeon|토큰화|
