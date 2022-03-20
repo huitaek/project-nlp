@@ -9,18 +9,42 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
 ## <b>방법</b> (추후 정리)
   총 200,000개 리뷰로 구성된 네이버 영화 리뷰 데이터 지도 학습
   
+  1. 웹크롤링을 통해 테스트데이터셋 준비
+     - 네이버 리뷰
+     - 다음 리뷰
+
+  2. 토큰화 방법 정하기
+     - kkma
+     - Komoran
+     - Hannanum
+     - Okt
+     - MeCab
+
+  3. LSTM 알고리즘 적용
+  4. GRU 알고리즘 적용
+  5. 감정분석
+  6. 시각화
+  
 ## <b>활용 데이터</b>
   https://github.com/e9t/nsmc/
 
 ## <b>사용 툴 / 라이브러리</b> (추후 정리)
 |구분|내용|설명|
 |---|---|---|
-||pandas|ddd|
-||numpy|ddd|
-||konlpy|ddd|
-||pykospacing|ddd|
-||hanspell|ddd|
-|Tool|Tableau|ddd|
+||pandas|.|
+||numpy|.|
+||konlpy|.|
+||pykospacing|.|
+||hanspell|.|
+||tensorflow|.|
+||nltk|.|
+||collections|.|
+||wordcloud|.|
+||matplotlib|.|
+||os|.|
+||tqdm|.|
+||eunjeon|토큰화|
+|Tool|Tableau|.|
 
 ## <b>파일 설명</b>
 + /data
@@ -31,9 +55,9 @@ Contributors : 정희택, 류제범, 변지영, 한혜림, 유호준, 하동호
   - stopwords.csv
 + preprocessing.ipynb
  
-## <b>적용 알고리즘</b>
-+ LSTM
-+ GRU
+## <b>알고리즘 적용</b>
++ nlp.ipynb (LSTM)
++ GRU 작업중.ipynb (GRU)
   
 <b></b>
 <b><span style="color:red"></span>
